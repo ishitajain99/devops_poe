@@ -2,7 +2,7 @@ import java.util.Scanner;
  
 // Java program to find the prime numbers
 // between a given interval
-public class GFG {
+public class abc {
  
     // driver code
     public static void main(String[] args)
